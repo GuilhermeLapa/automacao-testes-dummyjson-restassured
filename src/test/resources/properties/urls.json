@@ -4,5 +4,6 @@
 	"CriarTokenTest": "https://dummyjson.com/auth/login", 
 	"ConsultarListaProdutosAutenticacaoTest": "https://dummyjson.com/auth/products", 
 	"CriarProdutoTest": "https://dummyjson.com/products/add", 
-	"ConsultarListaProdutosTest": "https://dummyjson.com/products"
+	"ConsultarListaProdutosTest": "https://dummyjson.com/products", 
+	"ConsultarProdutoPorIdTest": "https://dummyjson.com/products/"
 }
