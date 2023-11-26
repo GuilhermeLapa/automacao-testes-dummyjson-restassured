@@ -1,3 +1,4 @@
 {
-	"TestarAplicacaoTest": "https://dummyjson.com/test"
+	"TestarAplicacaoTest": "https://dummyjson.com/test", 
+	"ConsultarListaUsuariosTest": "https://dummyjson.com/users"
 }
