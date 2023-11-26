@@ -1,4 +1,6 @@
 {
 	"TestarAplicacaoTest": "https://dummyjson.com/test", 
-	"ConsultarListaUsuariosTest": "https://dummyjson.com/users"
+	"ConsultarListaUsuariosTest": "https://dummyjson.com/users", 
+	"CriarTokenTest": "https://dummyjson.com/auth/login", 
+	"ConsultarListaProdutosAutenticacaoTest": "https://dummyjson.com/auth/products"
 }
