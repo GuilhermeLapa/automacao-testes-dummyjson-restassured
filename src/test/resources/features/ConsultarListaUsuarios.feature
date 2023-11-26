@@ -1,7 +1,7 @@
 # language: pt
 #encoding iso-8859-1
 
-@Testar1
+@Testar
 Funcionalidade:  GET - Buscar usuário para autenticação
 
 Cenário: Validar Consultar Lista de Usuários Sucesso
