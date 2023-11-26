@@ -3,5 +3,6 @@
 	"ConsultarListaUsuariosTest": "https://dummyjson.com/users", 
 	"CriarTokenTest": "https://dummyjson.com/auth/login", 
 	"ConsultarListaProdutosAutenticacaoTest": "https://dummyjson.com/auth/products", 
-	"CriarProdutoTest": "https://dummyjson.com/products/add"
+	"CriarProdutoTest": "https://dummyjson.com/products/add", 
+	"ConsultarListaProdutosTest": "https://dummyjson.com/products"
 }

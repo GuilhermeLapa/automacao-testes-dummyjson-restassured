@@ -1,7 +1,7 @@
 # language: pt
 #encoding iso-8859-1
 
-@Testar1
+@Testar
 Funcionalidade:  POST - Criação de produto
 
 Cenário: Validar Criar Produto Sucesso
